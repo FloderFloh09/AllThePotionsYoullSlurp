@@ -1,0 +1,95 @@
+{
+  "item.minecraft.potion.effect.persistence": "Trank der Beständigkeit",
+  "item.minecraft.splash_potion.effect.persistence": "Wurftrank der Beständigkeit",
+  "item.minecraft.lingering_potion.effect.persistence": "Verweiltrank der Beständigkeit",
+
+  "item.minecraft.potion.effect.affection": "Trank der Zuneigung",
+  "item.minecraft.splash_potion.effect.affection": "Wurftrank der Zuneigung",
+  "item.minecraft.lingering_potion.effect.affection": "Verweiltrank der Zuneigung",
+
+  "item.minecraft.potion.effect.weight": "Trank des Gewichts",
+  "item.minecraft.splash_potion.effect.weight": "Wurftrank des Gewichts",
+  "item.minecraft.lingering_potion.effect.weight": "Verweiltrank des Gewichts",
+
+  "item.minecraft.potion.effect.doggedness": "Trank der Zähigkeit",
+  "item.minecraft.splash_potion.effect.doggedness": "Wurftrank der Zähigkeit",
+  "item.minecraft.lingering_potion.effect.doggedness": "Verweiltrank der Zähigkeit",
+
+  "item.minecraft.potion.effect.vulnerability": "Trank der Verletzlichkeit",
+  "item.minecraft.splash_potion.effect.vulnerability": "Wurftrank der Verletzlichkeit",
+  "item.minecraft.lingering_potion.effect.vulnerability": "Verweiltrank der Verletzlichkeit",
+
+  "item.minecraft.potion.effect.reinforcement": "Trank der Verstärkung",
+  "item.minecraft.splash_potion.effect.reinforcement": "Wurftrank der Verstärkung",
+  "item.minecraft.lingering_potion.effect.reinforcement": "Verweiltrank der Verstärkung",
+
+  "item.minecraft.potion.effect.fragility": "Trank der Zerbrechlichkeit",
+  "item.minecraft.splash_potion.effect.fragility": "Wurftrank der Zerbrechlichkeit",
+  "item.minecraft.lingering_potion.effect.fragility": "Verweiltrank der Zerbrechlichkeit",
+
+  "item.minecraft.potion.effect.counterattack": "Trank des Konters",
+  "item.minecraft.splash_potion.effect.counterattack": "Wurftrank des Konters",
+  "item.minecraft.lingering_potion.effect.counterattack": "Verweiltrank des Konters",
+
+  "item.minecraft.potion.effect.transfer": "Trank des Transfers",
+  "item.minecraft.splash_potion.effect.transfer": "Wurftrank des Transfers",
+  "item.minecraft.lingering_potion.effect.transfer": "Verweiltrank des Transfers",
+
+
+
+
+  "item.allthepotionsyoullslurp.shattle_potion": "Splittertrank",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.awkward": "Seltsamer Splittertrank",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.empty": "Unbraubarer Splittertrank",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.fire_resistance": "Splittertrank der Feuerresistenz",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.harming": "Splittertrank des Schadens",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.healing": "Splittertrank der Heilung",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.infested": "Splittertrank des Befalls",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.invisibility": "Splittertrank der Unsichtbarkeit",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.leaping": "Splittertrank des Schleimens",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.luck": "Splittertrank des Glücks",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.mundane": "Gewöhnlicher Splittertrank",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.night_vision": "Splittertrank der Nachtsicht",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.poison": "Splittertrank des Gifts",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.slow_falling": "Splittertrank des Sanften Falls",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.slowness": "Splittertrank der Langsamkeit",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.strength": "Splittertrank der Stärke",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.swiftness": "Splittertrank der Schnelligkeit",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.thick": "Dickflüssiger Splittertrank",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.turtle_master": "Splittertrank des Schildkrötenmeisters",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.water": "Wasser Splitterflasche",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.water_breathing": "Splittertrank der Unterwasseratmung",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.weakness": "Splittertrank der Schwäche",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.weaving": "Splittertrank des Webens",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.wind_charged": "Splittertrank der Windladung",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.persistence": "Splittertrank der Beständigkeit",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.affection": "Splittertrank der Zuneigung",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.weight": "Splittertrank des Gewichts",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.doggedness": "Splittertrank der Zähigkeit",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.vulnerability": "Splittertrank der Verletzlichkeit",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.reinforcement": "Splittertrank der Verstärkung",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.fragility": "Splittertrank der Zerbrechlichkeit",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.counterattack": "Splittertrank des Konters",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.transfer": "Splittertrank des Transfers",
+
+  "item.minecraft.tipped_arrow.effect.persistence": "Pfeil der Beständigkeit",
+  "item.minecraft.tipped_arrow.effect.affection": "Pfeil der Zuneigung",
+  "item.minecraft.tipped_arrow.effect.weight": "Pfeil des Gewichts",
+  "item.minecraft.tipped_arrow.effect.doggedness": "Pfeil der Zähigkeit",
+  "item.minecraft.tipped_arrow.effect.vulnerability": "Pfeil der Verletzlichkeit",
+  "item.minecraft.tipped_arrow.effect.reinforcement": "Pfeil der Verstärkung",
+  "item.minecraft.tipped_arrow.effect.fragility": "Pfeil der Zerbrechlichkeit",
+  "item.minecraft.tipped_arrow.effect.counterattack": "Pfeil des Konters",
+  "item.minecraft.tipped_arrow.effect.transfer": "Pfeil des Transfers",
+
+
+  "effect.allthepotionsyoullslurp.persistence": "Beständigkeit",
+  "effect.allthepotionsyoullslurp.affection": "Zuneigung",
+  "effect.allthepotionsyoullslurp.weight": "Gewicht",
+  "effect.allthepotionsyoullslurp.doggedness": "Zähigkeit",
+  "effect.allthepotionsyoullslurp.vulnerability": "Verletzlichkeit",
+  "effect.allthepotionsyoullslurp.reinforcement": "Verstärkung",
+  "effect.allthepotionsyoullslurp.fragility": "Zerbrechlichkeit",
+  "effect.allthepotionsyoullslurp.counterattack": "Gegenschlag",
+  "effect.allthepotionsyoullslurp.transfer": "Transfer"
+}

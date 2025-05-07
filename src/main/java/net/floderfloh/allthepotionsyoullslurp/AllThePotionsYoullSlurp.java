@@ -1,6 +1,19 @@
 package net.floderfloh.allthepotionsyoullslurp;
 
 import com.mojang.logging.LogUtils;
+import net.floderfloh.allthepotionsyoullslurp.block.ModBlocks;
+import net.floderfloh.allthepotionsyoullslurp.component.ModDataComponentTypes;
+import net.floderfloh.allthepotionsyoullslurp.effect.ModEffects;
+import net.floderfloh.allthepotionsyoullslurp.entity.ModEntities;
+import net.floderfloh.allthepotionsyoullslurp.item.ModItems;
+import net.floderfloh.allthepotionsyoullslurp.potion.ModPotions;
+import net.floderfloh.allthepotionsyoullslurp.recipe.ModRecipeSerializer;
+import net.floderfloh.allthepotionsyoullslurp.recipe.ModRecipeTypes;
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.renderer.entity.EntityRenderers;
+import net.minecraft.client.renderer.entity.ThrownItemRenderer;
+import net.minecraft.core.component.DataComponents;
+import net.minecraft.world.item.alchemy.PotionContents;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -34,6 +47,17 @@ public class AllThePotionsYoullSlurp
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
 
+        ModEffects.register(modEventBus);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+        ModEntities.register(modEventBus);
+        ModPotions.register(modEventBus);
+        ModDataComponentTypes.register(modEventBus);
+        ModRecipeTypes.register(modEventBus);
+
+        ModRecipeSerializer.register(modEventBus);
+
 
 
 
@@ -64,7 +88,20 @@ public class AllThePotionsYoullSlurp
     public static class ClientModEvents {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event) {
-
+            Minecraft.getInstance().getItemColors().register(
+                    (stack, layer) -> {
+                        if (layer == 0) {
+                            PotionContents contents = stack.getOrDefault(DataComponents.POTION_CONTENTS, PotionContents.EMPTY);
+                            return contents.getColor();
+                        } else {
+                            return -1;
+                        }
+                    },
+                    ModItems.SHATTLE_POTION.get()
+            );
+            event.enqueueWork(() -> {
+                EntityRenderers.register(ModEntities.THROWABLE_MILK.get(), ThrownItemRenderer::new);
+            });
         }
     }
 }

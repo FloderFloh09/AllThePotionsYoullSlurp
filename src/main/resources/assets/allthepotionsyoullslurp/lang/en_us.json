@@ -1,0 +1,96 @@
+{
+  "item.minecraft.potion.effect.persistence": "Persistence Potion",
+  "item.minecraft.splash_potion.effect.persistence": "Persistence Splash Potion",
+  "item.minecraft.lingering_potion.effect.persistence": "Persistence Lingering Potion",
+
+  "item.minecraft.potion.effect.affection": "Affection Potion",
+  "item.minecraft.splash_potion.effect.affection": "Affection Splash Potion",
+  "item.minecraft.lingering_potion.effect.affection": "Affection Lingering Potion",
+
+  "item.minecraft.potion.effect.weight": "Weight Potion",
+  "item.minecraft.splash_potion.effect.weight": "Weight Splash Potion",
+  "item.minecraft.lingering_potion.effect.weight": "Weight Lingering Potion",
+
+  "item.minecraft.potion.effect.doggedness": "Doggedness Potion",
+  "item.minecraft.splash_potion.effect.doggedness": "Doggedness Splash Potion",
+  "item.minecraft.lingering_potion.effect.doggedness": "Doggedness Lingering Potion",
+
+  "item.minecraft.potion.effect.vulnerability": "Vulnerability Potion",
+  "item.minecraft.splash_potion.effect.vulnerability": "Vulnerability Splash Potion",
+  "item.minecraft.lingering_potion.effect.vulnerability": "Vulnerability Lingering Potion",
+
+  "item.minecraft.potion.effect.reinforcement": "Reinforcement Potion",
+  "item.minecraft.splash_potion.effect.reinforcement": "Reinforcement Splash Potion",
+  "item.minecraft.lingering_potion.effect.reinforcement": "Reinforcement Lingering Potion",
+
+  "item.minecraft.potion.effect.fragility": "Fragility Potion",
+  "item.minecraft.splash_potion.effect.fragility": "Fragility Splash Potion",
+  "item.minecraft.lingering_potion.effect.fragility": "Fragility Lingering Potion",
+
+  "item.minecraft.potion.effect.counterattack": "Counterattack Potion",
+  "item.minecraft.splash_potion.effect.counterattack": "Counterattack Splash Potion",
+  "item.minecraft.lingering_potion.effect.counterattack": "Counterattack Lingering Potion",
+
+  "item.minecraft.potion.effect.transfer": "Transfer Potion",
+  "item.minecraft.splash_potion.effect.transfer": "Transfer Splash Potion",
+  "item.minecraft.lingering_potion.effect.transfer": "Transfer Lingering Potion",
+
+
+
+
+  "item.allthepotionsyoullslurp.shattle_potion": "Shattle Potion",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.awkward": "Awkward Shattle Potion",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.empty": "Shattle Uncraftable Potion",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.fire_resistance": "Shattle Potion of Fire Resistance",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.harming": "Shattle Potion of Harming",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.healing": "Shattle Potion of Healing",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.infested": "Shattle Potion of Infestation",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.invisibility": "Shattle Potion of Invisibility",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.leaping": "Shattle Potion of Leaping",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.levitation": "Shattle Potion of Levitation",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.luck": "Shattle Potion of Luck",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.mundane": "Mundane Shattle Potion",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.night_vision": "Shattle Potion of Night Vision",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.poison": "Shattle Potion of Poison",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.slow_falling": "Shattle Potion of Slow Falling",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.slowness": "Shattle Potion of Slowness",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.strength": "Shattle Potion of Strength",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.swiftness": "Shattle Potion of Swiftness",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.thick": "Thick Shattle Potion",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.turtle_master": "Shattle Potion of the Turtle Master",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.water": "Shattle Water Bottle",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.water_breathing": "Shattle Potion of Water Breathing",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.weakness": "Shattle Potion of Weakness",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.weaving": "Shattle Potion of Weaving",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.wind_charged": "Shattle Potion of Wind Charging",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.persistence": "Shattle Potion of Persistence",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.affection": "Shattle Potion of Affection",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.weight": "Shattle Potion of Weight",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.doggedness": "Shattle Potion of Doggedness",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.vulnerability": "Shattle Potion of Vulnerability",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.reinforcement": "Shattle Potion of Reinforcement",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.fragility": "Shattle Potion of Fragility",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.counterattack": "Shattle Potion of Counterattack",
+  "item.allthepotionsyoullslurp.shattle_potion.effect.transfer": "Shattle Potion of Transfer",
+
+  "item.minecraft.tipped_arrow.effect.persistence": "Tipped Arrow of Persistence",
+  "item.minecraft.tipped_arrow.effect.affection": "Tipped Arrow of Affection",
+  "item.minecraft.tipped_arrow.effect.weight": "Tipped Arrow of Weight",
+  "item.minecraft.tipped_arrow.effect.doggedness": "Tipped Arrow of Doggedness",
+  "item.minecraft.tipped_arrow.effect.vulnerability": "Tipped Arrow of Vulnerability",
+  "item.minecraft.tipped_arrow.effect.reinforcement": "Tipped Arrow of Reinforcement",
+  "item.minecraft.tipped_arrow.effect.fragility": "Tipped Arrow of Fragility",
+  "item.minecraft.tipped_arrow.effect.counterattack": "Tipped Arrow of Counterattack",
+  "item.minecraft.tipped_arrow.effect.transfer": "Tipped Arrow of Transfer",
+
+
+  "effect.allthepotionsyoullslurp.persistence": "Persistence",
+  "effect.allthepotionsyoullslurp.affection": "Affection",
+  "effect.allthepotionsyoullslurp.weight": "Weight",
+  "effect.allthepotionsyoullslurp.doggedness": "Doggedness",
+  "effect.allthepotionsyoullslurp.vulnerability": "Vulnerability",
+  "effect.allthepotionsyoullslurp.reinforcement": "Reinforcement",
+  "effect.allthepotionsyoullslurp.fragility": "Fragility",
+  "effect.allthepotionsyoullslurp.counterattack": "Counterattack",
+  "effect.allthepotionsyoullslurp.transfer": "Transfer"
+}

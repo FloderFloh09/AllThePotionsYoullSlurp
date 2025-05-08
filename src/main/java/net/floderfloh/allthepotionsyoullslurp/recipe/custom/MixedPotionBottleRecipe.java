@@ -1,5 +1,6 @@
 package net.floderfloh.allthepotionsyoullslurp.recipe.custom;
 
+import net.floderfloh.allthepotionsyoullslurp.AllThePotionsYoullSlurp;
 import net.floderfloh.allthepotionsyoullslurp.component.CustomEffectHolder;
 import net.floderfloh.allthepotionsyoullslurp.component.ModDataComponentTypes;
 import net.floderfloh.allthepotionsyoullslurp.item.ModItems;
@@ -23,10 +24,12 @@ import net.minecraft.world.level.block.SuspiciousEffectHolder;
 import java.util.ArrayList;
 import java.util.List;
 
+
+
 public class MixedPotionBottleRecipe extends CustomRecipe {
     public MixedPotionBottleRecipe(CraftingBookCategory pCategory) {
         super(pCategory);
-        System.out.println("MixedPotionBottleRecipe initialized!");
+      AllThePotionsYoullSlurp.LOGGER.warn("AAAAAAAA");
     }
     private List<MobEffectInstance> extractPotionEffects(ItemStack potionStack) {
         PotionContents contents = potionStack.get(DataComponents.POTION_CONTENTS);
